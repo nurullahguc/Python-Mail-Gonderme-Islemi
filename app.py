@@ -14,7 +14,7 @@ try:
     password = "sifre"
 
     # Kime Gönderilecek Bilgisi
-    sendTo = "bbcn419a@gmail.com"
+    sendTo = "gonderilecek@mailadresi.xyz"
 
     mail = SMTP("smtp.gmail.com", 587)
     mail.ehlo()
